@@ -1,2 +1,2 @@
-# Login-procedural-php
-Login de forma procedural com php e mysql
+# Login-php
+Login com php e mysql
